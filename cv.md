@@ -1,24 +1,32 @@
 
 # Alexander Zorin
-******
-******
-## Junior frontend developer
-******
+***
+## Junior frontend developer 
+***
 ## Contact:
 **Phone:** +375(44) 778-11-11
+
 **GitHub:** https://github.com/Atlant73
+
 **E-mail:** 10701114zorin@gmail.com
+
 **Discord:** @Atlant-73
+
 ******
 ## Shortly about myself:
 My main goal is become a Front-End developer. My strengths are perseverance, patience and a great desire to learn. I don't have a commercial experience behind my back, but I have a **specialized education**. Ready to work for food (No).
 ******
 ## Programming skills:
 * HTML5, CCS3
+
 * C++, C# (first level)
+
 * Git
+
 * JavaScript (first level)
+
 * Visual Studio
+
 ******
 ## Code example:
 ```
@@ -48,6 +56,6 @@ function sort(a,b){
 ******
 ## Languages:
 **English**: A2-B1.
+
 **Russian**: Native.
-******
 ******

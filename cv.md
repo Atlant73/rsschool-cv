@@ -1,8 +1,8 @@
 
 # Alexander Zorin
-***
+
 ## Junior frontend developer 
-***
+
 ## Contact:
 **Phone:** +375(44) 778-11-11
 
@@ -12,10 +12,10 @@
 
 **Discord:** @Atlant-73
 
-******
+
 ## Shortly about myself:
 My main goal is become a Front-End developer. My strengths are perseverance, patience and a great desire to learn. I don't have a commercial experience behind my back, but I have a **specialized education**. Ready to work for food (No).
-******
+
 ## Programming skills:
 * HTML5, CCS3
 
@@ -27,7 +27,7 @@ My main goal is become a Front-End developer. My strengths are perseverance, pat
 
 * Visual Studio
 
-******
+
 ## Code example:
 ```
 function comp(array1, array2){
@@ -47,13 +47,13 @@ function sort(a,b){
   else return 0;
 }
 ```
-******
+
 ## Courses and education:
 * Specialized education on BNTU.
 * HTML and CCS courses on HTML Academy.
 * JS course on learn.javascript.ru (still in progress).
 * JS / Front-End course on RS School (still in progress).
-******
+
 ## Languages:
 **English**: A2-B1.
 

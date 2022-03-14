@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Atlant73.github.io/rsschool-cv/cv
